@@ -1,6 +1,6 @@
-# LDPGuard
+# LDPGuard 
 
-This is our implementation for the paper:
+This is our implementation for the following paper:
 
 LDPGuard: Defenses against Data Poisoning Attacks to Local Differential Privacy Protocols
 
